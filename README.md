@@ -1,9 +1,17 @@
-# Deep Learning Project
+# Building Neural Networks from Scratch
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)  
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)  
-![PyTorch](https://img.shields.io/badge/PyTorch-1.x-red)  
+![License](https://img.shields.io/badge/license-MIT-blue.svg)  
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
-A deep learning project designed to [briefly describe your project's purpose]. This repository contains the code, models, and documentation for [specific task, e.g., image classification, object detection, etc.].
+This repository contains a **from-scratch implementation of neural networks** in Python. The goal is to understand the core concepts of deep learning by building everything from the ground up, including automatic differentiation, tensor operations, and basic neural network layers.
+
+---
+
+## Introduction
+This project is an educational implementation of neural networks, inspired by frameworks like PyTorch and TensorFlow. It includes:
+- A custom `Value` class for automatic differentiation.
+- Basic operations like addition, multiplication, subtraction, and division.
+- A foundation for building more complex neural network components.
+
+The code is designed to be simple and easy to understand, making it a great resource for learning how deep learning frameworks work under the hood.
